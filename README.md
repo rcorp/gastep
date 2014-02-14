@@ -1,16 +1,15 @@
 gastep
 ======
 
-Git Automated Staging & Testing Environments for Projects.
+#Git Automated Staging & Testing Environments for Projects.
 
-What is it
-==========
+##What is it?
 
-GASTEP is a tool used by Web Developers, to quickly update their code onto staging and testing environments.
+**GASTEP** is a tool used by Web Developers, to quickly update their code onto staging and testing environments.
 The tool assumes you have Git based workflow and automates the entire versioning / deployment process thorugh a simple GUI.
 
-Liscense
-========
+##License
+
 
 The MIT License (MIT)
 
